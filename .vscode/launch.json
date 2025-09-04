@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/VisualCode/Projetos_Em_C/Tema4-AlgoritimosAvancados-c",
-      "program": "c:/VisualCode/Projetos_Em_C/Tema4-AlgoritimosAvancados-c/build/Debug/outDebug",
+      "cwd": "c:/VisualCode/Projetos_Em_C/Programas-c/DetetiveQuest-c",
+      "program": "c:/VisualCode/Projetos_Em_C/Programas-c/DetetiveQuest-c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
