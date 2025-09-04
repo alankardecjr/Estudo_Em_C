@@ -136,6 +136,8 @@ int main() {
     printf("            -------------             ------------\n");
     printf("            |           |             |          |\n");
     printf("         Suite 1     Suite 2        Copa    Escritorio\n");
+    printf("                                                 |\n");
+    printf("                                           Sala Secreta\n");
     printf("\n===============================================================\n");
     printf("        >>> Estrutura da mansao criada com sucesso <<<         \n");
     printf("===============================================================\n");
@@ -146,6 +148,6 @@ int main() {
     // Liberar memoria
     liberar(hall);
 
-    return 0;
+    return;
 }
 
