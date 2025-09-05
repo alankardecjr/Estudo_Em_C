@@ -144,7 +144,7 @@ void julgamentoFinal(PistaNode* pistas, HashNode* tabela[]) {
     printf("                 >>> JULGAMENTO FINAL <<<                      \n");
     printf("===============================================================\n");
     printf(">>> Acuse um suspeito baseado nas pistas:\n");
-    printf(">>> Possiveis suspeitos: Mordomo, Secretaria, Jardineiro, Baba\n");
+    printf(">>> Suspeitos possiveis: mordomo, secretaria, jardineiro, baba\n");
     printf("\n>>> Digite o nome do suspeito: ");
     fgets(suspeito, MAX_STR, stdin);
     suspeito[strcspn(suspeito, "\n")] = '\0';
